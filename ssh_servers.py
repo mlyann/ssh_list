@@ -1,10 +1,8 @@
 """
 Parse the .ssh/config file, connect to a server.
 
-TODO:
-1. let user write new servers to the config file
-2. handle_menu() # or add exit and fuzzy search to every menu?
-2b. perhaps make every menu behave the same
+Author:
+Minglai Yang
 """
 import subprocess
 import re
